@@ -108,7 +108,7 @@ Este repositório apresenta o **Brumu**, um kit educacional de robótica idealiz
 - [MIT App Inventor](https://appinventor.mit.edu/)  
 - [Arduino UNO](https://www.arduino.cc/)
 
-Para mais detalhes, consulte o [TCC completo](./Artigo_CompletoBRUMU.pdf) e o [repositório oficial do Brumu](https://github.com/munir-souza/BRUMU.git).
+Para mais detalhes, consulte o [Artigo completo](./Artigo_CompletoBRUMU.pdf) e o [repositório oficial do Brumu](https://github.com/munir-souza/BRUMU.git).
 
 ---
 
